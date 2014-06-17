@@ -1,0 +1,98 @@
+body {
+  padding: 0;
+  margin: 0;
+  font: 62.4%/160% "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #000 url("/img/cover.jpg") no-repeat top center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+@media only screen and (max-device-width: 1024px) {
+  body {
+    background-size: auto;
+    -webkit-background-size: auto;
+  }
+}
+.gutter {
+  max-width: 960px;
+  padding: 0 40px;
+  margin: auto;
+}
+header {
+  min-height: 200px;
+}
+header .top-row h1,
+header .top-row div {
+  margin: 0;
+  padding: 20px 0;
+  display: inline-block;
+  margin-right: 50px;
+  vertical-align: middle;
+}
+header h1 img {
+  max-width: 200px;
+}
+header h2 {
+  clear: both;
+  margin: 0;
+  padding: 80px 0 120px;
+  font-size: 65px;
+  line-height: 96px;
+  font-weight: normal;
+  color: #fff;
+  text-transform: lowercase;
+}
+header h2 .spacer {
+  height: 75px;
+}
+header h2 span {
+  background: rgba(255,217,5,0.75);
+  padding: 10px 20px;
+}
+article {
+  padding: 60px 0;
+  border-top: 4px #ffd905 solid;
+  border-bottom: 2px #ffd905 solid;
+  background: rgba(68,68,68,0.9);
+  color: #eee;
+  font-size: 230%;
+  line-height: 145%;
+}
+article .screenshots img {
+  max-height: 250px;
+}
+article .gutter > *:first-child {
+  margin-top: 0;
+}
+article .gutter > *:last-child {
+  margin-bottom: 0;
+}
+h2 {
+  margin: 60px 0 5px 0;
+  padding: 0;
+}
+a {
+  color: #ffd905;
+}
+a:hover {
+  color: #ffe343;
+}
+#cross_sell {
+  background: rgba(34,34,34,0.95);
+  color: #777;
+  padding: 40px 0;
+  font-size: 24px;
+  line-height: 36px;
+}
+footer {
+  background: #ffd905;
+  color: #907d13;
+  padding: 7px;
+  font-size: 18px;
+}
+footer a {
+  color: #65570d;
+}
+footer a:hover {
+  color: #51460a;
+}

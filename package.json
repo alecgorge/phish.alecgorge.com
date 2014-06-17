@@ -1,0 +1,26 @@
+{
+  "name": "dead.alecgorge.com",
+  "private": true,
+  "version": "0.0.0",
+  "description": "The code behind dead.alecgorge.com",
+  "main": "index.js",
+  "scripts": {
+    "preview": "./node_modules/.bin/wintersmith preview",
+    "build": "./node_modules/.bin/wintersmith build -o www",
+    "start": "./node_modules/.bin/wintersmith build -o www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alecgorge/dead.alecgorge.com.git"
+  },
+  "author": "Alec Gorge",
+  "license": "MIT",
+  "dependencies": {
+    "wintersmith-stylus": "bendrucker/wintersmith-stylus",
+    "wintersmith": "~2.0.10",
+    "coffee-script": "~1.7.1"
+  },
+  "engines": {
+    "node": "~0.10.26"
+  }
+}

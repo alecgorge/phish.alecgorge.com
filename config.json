@@ -1,0 +1,15 @@
+{
+  "locals": {
+    
+  },
+  "plugins": [
+    "./node_modules/wintersmith-stylus/"
+  ],
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  }
+}
