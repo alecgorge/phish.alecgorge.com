@@ -1,8 +1,8 @@
 {
-  "name": "dead.alecgorge.com",
+  "name": "phishapp.alecgorge.com",
   "private": true,
   "version": "0.0.0",
-  "description": "The code behind dead.alecgorge.com",
+  "description": "The code behind phishapp.alecgorge.com",
   "main": "index.js",
   "scripts": {
     "preview": "./node_modules/.bin/wintersmith preview",
@@ -11,14 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:alecgorge/dead.alecgorge.com.git"
+    "url": "git@github.com:alecgorge/phishapp.alecgorge.com.git"
   },
   "author": "Alec Gorge",
   "license": "MIT",
   "dependencies": {
-    "wintersmith-stylus": "bendrucker/wintersmith-stylus",
+    "coffee-script": "~1.7.1",
     "wintersmith": "~2.0.10",
-    "coffee-script": "~1.7.1"
+    "wintersmith-data-json": "0.0.5",
+    "wintersmith-stylus": "bendrucker/wintersmith-stylus"
   },
   "engines": {
     "node": "~0.10.26"

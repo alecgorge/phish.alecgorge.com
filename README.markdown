@@ -1,4 +1,4 @@
-# [dead.alecgorge.com](https://dead.alecgorge.com)
+# [phishapp.alecgorge.com](https://phishapp.alecgorge.com)
 
 ## Development
 
