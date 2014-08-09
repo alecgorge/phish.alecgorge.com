@@ -1,22 +1,25 @@
 ---
-title: "PhishOD 2.1.1 &mdash; All Phish, all the time. Stream Phish from Phish.in on the go!"
+title: "PhishOD 3.0.0 &mdash; All Phish, all the time. Stream Phish from Phish.in & LivePhish.com on the go!"
 template: index.jade
 ---
 
 ## about
 
-The power of Phish.in in the palm of your hand! Listen to any song from [Phish.in](http://phish.in) and view concert ratings and reviews from [phish.net](http://phish.net)!
+The power of Phish.in & LivePhish.com in the palm of your hand! Listen to any song from [Phish.in](http://phish.in) and view concert ratings and reviews from [phish.net](http://phish.net)!
+
+You can also stream Live Phish Radio and shows from your LivePhish.com stash.
 
 * Scrobble to [Last.FM](http://last.fm)
-* Listen to music in the background, with full listening capabilities!
-* Filter concerts by soundboards and remastered versions!
-* Look at every time a song was played!
-* Look at the top rated concerts
-* See which times a song was on the jamming charts
+* Download songs for offline listening! 
+* Listen to music in the background, with full listening capabilities! 
+* Filter concerts by soundboards and remastered versions! 
+* Look at every time a song was played! 
+* Look at the top rated concerts 
+* See which times a song was on the jamming charts 
 * [PhishTracksStats.com](http://phishtracksstats.com) integration. Personalized stats!
-* Favorite tracks, venues, tours and shows to easily retrieve later!
-* Global stats: view the most popular Phish songs right now!
-* A new player bar to make it easier to control your music!
+* Read the taper's notes 
+* LivePhish radio provided by nugs.net! 
+* LivePhish.com integration: featured shows, stash and browse! 
 
 Big thanks to [phish.net](http://phish.net) and [Phish.in](http://phish.in) for making this data available for use!
 
@@ -33,19 +36,18 @@ Speaking of GitHub, this app is [open source and available on GitHub](https://gi
 ### iPhone
 
 <div class="screenshots">
-[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.02.10 16.35.52.jpg)](/img/screenshots/iphone5/Screenshot 2014.02.10 16.35.52.png)
-[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.02.10 16.36.46.jpg)](/img/screenshots/iphone5/Screenshot 2014.02.10 16.36.46.png)
-[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.02.10 16.37.04.jpg)](/img/screenshots/iphone5/Screenshot 2014.02.10 16.37.04.png)
-[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.02.10 16.38.57.jpg)](/img/screenshots/iphone5/Screenshot 2014.02.10 16.38.57.png)
-[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.02.10 16.39.31.jpg)](/img/screenshots/iphone5/Screenshot 2014.02.10 16.39.31.png)
+[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.08.07 16.28.52.jpg)](/img/screenshots/iphone5/Screenshot 2014.08.07 16.28.52.png)
+[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.08.07 16.29.03.jpg)](/img/screenshots/iphone5/Screenshot 2014.08.07 16.29.03.png)
+[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.08.07 16.29.22.jpg)](/img/screenshots/iphone5/Screenshot 2014.08.07 16.29.22.png)
+[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.08.07 16.30.52.jpg)](/img/screenshots/iphone5/Screenshot 2014.08.07 16.30.52.png)
+[![](/img/screenshots/iphone5/_thumbs/Screenshot 2014.08.07 16.32.08.jpg)](/img/screenshots/iphone5/Screenshot 2014.08.07 16.32.08.png)
 </div>
 
 ### iPad
 
 <div class="screenshots">
-[![](/img/screenshots/ipad/_thumbs/iOS Simulator Screen shot Jul 10, 2013 2.24.47 AM.jpg)](/img/screenshots/ipad/iOS Simulator Screen shot Jul 10, 2013 2.24.47 AM.png)
-[![](/img/screenshots/ipad/_thumbs/iOS Simulator Screen shot Jul 10, 2013 2.24.58 AM.jpg)](/img/screenshots/ipad/iOS Simulator Screen shot Jul 10, 2013 2.24.58 AM.png)
-[![](/img/screenshots/ipad/_thumbs/iOS Simulator Screen shot Jul 10, 2013 2.25.04 AM.jpg)](/img/screenshots/ipad/iOS Simulator Screen shot Jul 10, 2013 2.25.04 AM.png)
-[![](/img/screenshots/ipad/_thumbs/iOS Simulator Screen shot Jul 10, 2013 2.25.16 AM.jpg)](/img/screenshots/ipad/iOS Simulator Screen shot Jul 10, 2013 2.25.16 AM.png)
-[![](/img/screenshots/ipad/_thumbs/iOS Simulator Screen shot Jul 10, 2013 2.25.20 AM.jpg)](/img/screenshots/ipad/iOS Simulator Screen shot Jul 10, 2013 2.25.20 AM.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.08.07 16.35.45.jpg)](/img/screenshots/ipad/Screenshot 2014.08.07 16.35.45.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.08.07 16.37.06.jpg)](/img/screenshots/ipad/Screenshot 2014.08.07 16.37.06.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.08.07 16.37.23.jpg)](/img/screenshots/ipad/Screenshot 2014.08.07 16.37.23.png)
+[![](/img/screenshots/ipad/_thumbs/Screenshot 2014.08.07 16.37.55.jpg)](/img/screenshots/ipad/Screenshot 2014.08.07 16.37.55.png)
 </div>

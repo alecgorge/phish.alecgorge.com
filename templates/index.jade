@@ -26,7 +26,7 @@ html(lang='en')
             a.twitter-share-button(href='https://twitter.com/share', data-via='alecgorge', data-size='large', data-dnt='true') Tweet
             a.twitter-follow-button(href='https://twitter.com/phishod', data-show-count='false', data-size='large', data-dnt='true') Follow @phishod
             script.
-              function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+              (function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}})(document, 'script', 'twitter-wjs');
         h2
           span Phish. Any year.
           div 
@@ -44,8 +44,10 @@ html(lang='en')
           a(href='//dead.alecgorge.com') Grateful Dead
           | , 
           a(href='//marco.alecgorge.com') Marco Benevento
+          | , 
+          a(href='//sci.alecgorge.com') String Cheese Incident
           | , and 
-          a(href='//umps.alecgorge.com') Umphrey's McGee
+          a(href='//um.alecgorge.com') Umphrey's McGee
           | .
     footer
       .gutter
